@@ -1,0 +1,6 @@
+{
+  "name": "CardioTwin X",
+  "description": "Adaptive cardiovascular digital twin in Python featuring 3-element Windkessel modeling, Unscented Kalman Filtering, Mahalanobis divergence detection, and interactive what-if physiology simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
